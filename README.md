@@ -1,7 +1,4 @@
 - 👋 Hi, We're @port194llc, an Arizona-based cyber startup
-
-  ![image](https://github.com/user-attachments/assets/501d8ab2-37c8-46cd-8af4-57ab72ab19f0)
-
 - We are currently collaborating with the University of Arizona's Institute for Computation and Data Enabled Insight (ICDI)
 ![image](https://github.com/user-attachments/assets/37e07a85-568d-4f59-aab4-ddb4868c146a)
 
